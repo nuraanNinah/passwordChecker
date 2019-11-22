@@ -1,3 +1,5 @@
+"use strict"
+
 // Check if password exists
 try  {
 if(!password) throw error("Password cannot be empty"); // Check if password is atleast 8 characters long
